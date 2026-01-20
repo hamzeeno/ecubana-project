@@ -16,7 +16,7 @@
 		<header class="header">
 			<div class="header__inner">
 				<h4 class="logo">Welcome To e-cubana</h4>
-				<p>Order Now</p>
+				<p>Make Order Now</p>
 			</div>
 		</header>
 
